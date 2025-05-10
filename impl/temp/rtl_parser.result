@@ -1,0 +1,76 @@
+[
+ {
+  "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 74,
+    "InstName" : "pc_counter",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/d_register.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "d_register"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 76,
+    "InstName" : "gt_flipflop",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/d_flipflop.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "d_flipflop"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 78,
+    "InstName" : "data_memory",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/memory.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "memory"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 80,
+    "InstName" : "instruction_memory",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/instruction_rom.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "instruction_rom"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 82,
+    "InstName" : "main_alu",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/alu.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "alu"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 84,
+    "InstName" : "negate",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/negator.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "negator"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 86,
+    "InstName" : "cu",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/control_unit.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "control_unit"
+   },
+   {
+    "InstFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+    "InstLine" : 88,
+    "InstName" : "registers",
+    "ModuleFile" : "/home/timo/Verilog/8sc_tang_nano_20k/src/register_file.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "register_file"
+   }
+  ]
+ }
+]

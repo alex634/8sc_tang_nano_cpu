@@ -1,0 +1,17 @@
+-d /home/timo/Verilog/8sc_tang_nano_20k/impl/gwsynthesis/8sc_tang_nano_20k.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst /home/timo/Verilog/8sc_tang_nano_20k/src/8sc_tang_nano_20k.cst
+-cfg /home/timo/Verilog/8sc_tang_nano_20k/impl/pnr/device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000

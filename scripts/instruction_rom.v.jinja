@@ -1,0 +1,14 @@
+module instruction_rom
+(
+    input [7:0] addr,
+    output reg [7:0] data
+);
+
+    always @ (addr) begin
+        case (addr)
+            {% for word in words %}{{ loop.index0 }}: data = 8'b{{ word }};
+            {% endfor %}  
+        endcase
+    end
+
+endmodule

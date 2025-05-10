@@ -1,0 +1,49 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/alu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/d_register.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/d_flipflop.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/register_file.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/negator.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/control_unit.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/instruction_rom.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/memory.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/timo/Verilog/8sc_tang_nano_20k/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/timo/Verilog/8sc_tang_nano_20k/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

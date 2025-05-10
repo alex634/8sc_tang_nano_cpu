@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Alu="7" Lut="241" T_Register="2079(0)" T_Alu="12(7)" T_Lut="3925(241)">
+ <SubModule name="pc_counter" Register="8" T_Register="8(8)"/>
+ <SubModule name="data_memory" Register="2040" Lut="3578" T_Register="2040(2040)" T_Lut="3578(3578)"/>
+ <SubModule name="instruction_memory" Lut="16" T_Lut="16(16)"/>
+ <SubModule name="main_alu" Alu="5" T_Alu="5(5)"/>
+ <SubModule name="cu" Lut="1" T_Lut="1(1)"/>
+ <SubModule name="registers" Register="31" Lut="89" T_Register="31(31)" T_Lut="89(89)"/>
+</Module>
