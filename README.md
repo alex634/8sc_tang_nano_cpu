@@ -17,4 +17,4 @@ If you want to write your own custom programs for this CPU, please check the `Do
 ## Demonstration
 
 This is a video clip of me testing it on real hardware:
-[video](https://files.catbox.moe/dl6e2k.mp4) (Let me know if link goes dead)
+[video](https://files.catbox.moe/dl6e2k.mp4) (Let me know if the link goes dead)
