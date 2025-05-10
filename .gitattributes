@@ -1,0 +1,3 @@
+impl/* -linguist-detectable
+*.gprj -linguist-detectable
+*.gprj.user -linguist-detectable
